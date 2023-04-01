@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+<link rel="stylesheet" type="text/css" href="style.css">
+<link href="https://fonts.cdnfonts.com/css/ampera" rel="stylesheet">
+
+
+<title>pagina 1</title>
+</head>
+<body>
+<div style="margin:24px">
+<nav class="navbar navbar-light" style="background-color: #613F75;">
+<div class="container">
+<a class="navbar-brand" href= "index.html">Inicio</a>
+<ul class="nav navbar-nav">
+<li>
+<a href="/pedidorealizado.html">Menu</a>
+                </li>
+                <li>
+                <a href="/formulario.html">Formulario</a>
+                </li>
+                <li>
+                <a href="/resultado.html">resultado</a>
+                </li>
+                <li>
+                <a href="/contacto.html">Contacto</a>
+            </li>
+   </ul>
+   </div>
+    </nav>
+ </div>
+     <titulo2>PEDIDO REALIZADO CON EXITO </titulo2>
+
+ <ul>
+     <p><strong>Nombre:</strong><span id="nombre"></span></p>
+     <p><strong>Apellido:</strong><span id="apellido"></span></p>
+     <p><strong>Telefono:</strong><span id="telefono"></span></p>
+     <p><strong>Direccion:</strong><span id="direccion"></span></p>
+     <p><strong>Colonia:</strong><span id="colonia"></span></p>
+     <p><strong>Menu:</strong><span id="menu"></span></p>
+     <p><strong>Servilletas:</strong><span id="servilletas"></span></p>
+     <p><strong>Bebidas:</strong><span id="bebidas"></span></p>
+     <p><strong>Tomate:</strong><span id="tomate"></span></p>
+     <p><strong>Cebolla:</strong><span id="cebolla"></span></p>
+     <p><strong>Ensaladagriega:</strong><span id="ensaladagriega"></span></p>
+     <p><strong>Guacamole:</strong><span id="guacamole"></span></p>
+     <p><strong>Arroz:</strong><span id="arroz"></span></p>
+    
+
+     <script type="text/javascript">
+         const orden=JSON.parse(localStorage.getItem("orden"));
+        document.getElementById("nombre").textContent=orden.nombre;
+        document.getElementById("apellido").textContent=orden.apellido;
+        document.getElementById("telefono").textContent=orden.telefono;
+        document.getElementById("direccion").textContent=orden.direccion;
+        document.getElementById("colonia").textContent=orden.colonia;
+        document.getElementById("menu").textContent=orden.menu;
+        document.getElementById("servilletas").textContent=orden.servilletas;
+         document.getElementById("bebidas").textContent=orden.bebidas;
+        document.getElementById("tomate").textContent=orden.tomate;
+        document.getElementById("cebolla").textContent=orden.cebolla;
+         document.getElementById("ensaladagriega").textContent=orden.ensaladagriega;
+          document.getElementById("guacamole").textContent=orden.guacamole;
+        document.getElementById("arroz").textContent=orden.arroz;
+    
+     </script>
+ </ul>
+</body>
+</html

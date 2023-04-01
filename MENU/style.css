@@ -1,0 +1,58 @@
+body{
+background:lightblue;
+}
+.center{
+display: white;
+margin-left: auto;
+margim-rigth:auto;
+width: 50%;
+width: 1000px;
+}
+titulo{
+ font-family:"Blade Runner Movie Font", sans-serif;                                      
+font-size:50px;
+align-content: center;
+}
+titulo2{
+font-family: 'Ampera', sans-serif;
+font-size:50px;
+align-content: center;
+}
+input:focus{
+    outline: 4px dashed#4499933;
+}
+table{
+margin-left: 300px;
+background-color:white;
+color:white;
+text-align: center;
+width: 700;
+}
+th{
+    color: white;
+}
+table{
+	border-collapse: collapse;
+	width: 100%;
+	margin-bottom: 20px;
+
+}
+th,td{
+	text-align: left;
+	padding: 8px;
+
+}
+th{
+	background-color: violet;
+	color: white;
+
+}
+tr:nth-child(even){
+	background-color: green;
+
+}
+img{
+	width: 100px;
+	height: 100px;
+	
+}

@@ -1,0 +1,202 @@
+{ 
+"menu":[
+{
+"nombre": "BROCHETAS",
+"descripcion":" puede ser de pollo o camaron con alguna ensalada",
+"precio":478,
+"imagen":"brochetas3.jpg"
+
+},
+{
+"nombre": "CAMARON",
+"descripcion":"frito ,con arroz y una ensalada  ",
+"precio":145,
+"imagen":"camaron5.jpg"
+
+},
+{
+"nombre": "CEVICHE",
+"descripcion":"ceviche en tostadas .",
+"precio":230,
+"imagen":"ceviche.jpg"
+
+},
+{
+"nombre": "CREMA",
+"descripcion":"crema de spaguethi con camarones.",
+"precio":4345,
+"imagen":"crema.jpg"
+
+},
+{
+"nombre": "LANGOSTA",
+"descripcion":"es un plato de fácil preparación y barato.y se mezcla con arroz.",
+"precio":780,
+"imagen":"lan.jpg"
+
+},
+{
+"nombre": "MOLCAJETE",
+"descripcion":"es como un cocetl de camarones servido en un molcajate ",
+"precio":415,
+"imagen":"molcajete.jpg"
+
+},
+{
+"nombre": "PAELLA",
+"descripcion":" Es un platillo picante.",
+"precio":240,
+"imagen":"paella.jpg"
+
+},
+{
+"nombre": "PESCADILLA",
+"descripcion":" Al servirlo se le agrega limón y se torna lechoso. Este caldo es casero, pero también se sirve en marisquerías o coctelerías; difícilmente se encuentra en restaurantes..",
+"precio":460,
+"imagen":"pescadilla.jpg"
+
+},
+{
+"nombre": "PESCADO",
+"descripcion":"pescado frito con salsa o ensalda de la preferencia ",
+"precio":370,
+"imagen":"pescado12.jpg"
+
+},
+{
+"nombre": "POZOLE",
+"descripcion":"algo mas raro del menu pero tambien especial .",
+"precio":930,
+"imagen":"Pozole5.jpg"
+
+},
+{
+"nombre": "QUESADILLA",
+"descripcion":" son uno de los platos favoritos a disfrutar durante el verano. Se trata de finos fideos sobre una sopa fría que lleva vinagre y van acopañados de pepino, rábano, pera coreana, huevo duro y un trozo fino de carne. Para sazonar se suele usar mostaza y agregar más vinagre a gusto. La salsa suele llevar bastante ají, pero no está mezclada del todo, por lo que puedes quitarla.",
+"precio":120,
+"imagen":"Quesadilla4.jpg"
+
+},
+{
+"nombre": "SALMON",
+"descripcion":" Una sopa de costilla de vacuno con rábano blanco, cebolla, cebollín, y huevo frito dispueto en tiras. La sopa es bien sabrosa e ideal para días fríos.",
+"precio":160,
+"imagen":"salmon.jpg"
+
+},
+{
+"nombre": "SOPA",
+"descripcion":"sopa o caldo de camarones como mejor lo conozcan.",
+"precio":257,
+"imagen":"sopa.jpg"
+
+},
+{
+"nombre": "SUSHI",
+"descripcion":"El sushi es un plato de la gastronomía japonesa con base de arroz condimentado con vinagre y azúcar",
+"precio":586,
+"imagen":"sushi9.jpg"
+
+},
+{
+"nombre": "TACOS",
+"descripcion":" otro clásico coreano, y favorito de los extranjeros. Se trata de cortes blandos de carne de vacuno marinados con salsa de soja, ajo y azúcar. Al no ser picante es un plato fácil de probar en un primer encuentro con la gastronomía coreana.",
+"precio":739,
+"imagen":"tacos 6.jpg"
+
+},
+{
+"nombre": " TACOS C",
+"descripcion":" es otro plato que fue importado a Corea, ya que es de origen japonés. Se trata de filete de cerdo apanado y frito que se complementa con una salsa agridulce. Es muy popular sobretodo en los niños.",
+"precio":284,
+"imagen":"tacos de camaron.jpg"
+
+},
+{
+"nombre": "TACOS",
+"descripcion":" son especiales distintos puede ser de bisteck o trompo diferente a los de camarones .",
+"precio":139,
+"imagen":"Tacos3.jpg"
+
+},
+{
+"nombre": "TOSTADAS",
+"descripcion":"puede ser tambien de camarones con salsa a la mexicana o pico de gallo.",
+"precio":189,
+"imagen":"tostadas8.jpg"
+
+},
+{
+"nombre": "ESTOFADO",
+"descripcion":"con papas y arroz blanco hecho de camarones.",
+"precio":320,
+"imagen":"esto.jpg"
+
+}
+
+],
+"bebidas":[
+{
+"nombre": " JUGO DE LIMON",
+"descripcion":"Jugo con frutas naturales ,todo casero",
+"precio":120,
+"imagen":"lim.jpg"
+},
+{
+"nombre": "JUGO DE NARANJA",
+"descripcion":"Jugo con frutas naturales ,todo casero",
+"precio":130,
+"imagen":"na.jpg"
+},
+{
+"nombre": "JUGO DE FRESA",
+"descripcion":"Jugo con frutas naturales ,todo casero",
+"precio":130,
+"imagen":"fre.jpg"
+},
+{
+"nombre": "JUGO DE MANGO",
+"descripcion":"Jugo con frutas naturales ,todo casero",
+"precio":120,
+"imagen":"man.jpg"
+},
+{
+"nombre": "JUGO DE TAMARINDO",
+"descripcion":"Jugo con frutas naturales ,todo casero",
+"precio":110,
+"imagen":"tam.jpg"
+},
+{
+"nombre": "JUGO DE MANZANA",
+"descripcion":"Jugo con frutas naturales ,todo casero",
+"precio":121,
+"imagen":"manza.jpg"
+},
+{
+"nombre": "DR PEPPER",
+"descripcion":"Uno de loas mejores refrescos",
+"precio":120,
+"imagen":"dr.jpg"
+}
+],
+"EXTRAS":[
+{
+"nombre": "SPAGUETI",
+"descripcion":"Puedes ser rojo,verde,blanco con albondigas o jamon",
+"precio":120,
+"imagen":"spa.jpg"
+},
+{
+"nombre": "GUACAMOLE",
+"descripcion":"guacamole cpn pico de gallo",
+"precio":120,
+"imagen":"gua.jpg"
+},
+{
+"nombre": "AROS DE CEBOLLA",
+"descripcion":"aros de cebolla empanizadozSS",
+"precio":120,
+"imagen":"aro.jpg"
+}
+]
+}
